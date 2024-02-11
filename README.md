@@ -44,7 +44,7 @@ Image credits: Images sourced from [The Blacklist](https://www.imdb.com/title/tt
 <h2>License</h2>
 
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-<p>All text content is sourced from [Wikipedia](https://en.wikipedia.org/wiki/The_Blacklist_(TV_series)).</p>
+<p>All text content is sourced from Wikipedia https://en.wikipedia.org/wiki/The_Blacklist_(TV_series)).</p>
 
 </body>
 </html>
