@@ -14,7 +14,7 @@
 <h2>📸 Screenshots 📸</h2>
 
 <p> <img src="Projectgif.gif" alt="GIF showcasing the app"></p>
-Image credits: Images sourced from [The Blacklist](https://www.imdb.com/title/tt2741602/) TV show.</p>
+Image credits: Images sourced from The Blacklist (https://www.imdb.com/title/tt2741602/) TV show.</p>
 
 <h2>Features</h2>
 
@@ -44,7 +44,7 @@ Image credits: Images sourced from [The Blacklist](https://www.imdb.com/title/tt
 <h2>License</h2>
 
 <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-<p>All text content is sourced from Wikipedia https://en.wikipedia.org/wiki/The_Blacklist_(TV_series)).</p>
+<p>All text content is sourced from Wikipedia https://en.wikipedia.org/wiki/The_Blacklist_(TV_series).</p>
 
 </body>
 </html>
