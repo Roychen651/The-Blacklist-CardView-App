@@ -14,7 +14,7 @@
 <h2>📸 Screenshots 📸</h2>
 
 <p> <img src="Projectgif.gif" alt="GIF showcasing the app"></p>
-Image credits: Images sourced from The Blacklist (https://www.imdb.com/title/tt2741602/) TV show.</p>
+Image credits: Images sourced from The Blacklist https://www.imdb.com/title/tt2741602/ TV show.</p>
 
 <h2>Features</h2>
 
