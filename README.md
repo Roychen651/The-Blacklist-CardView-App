@@ -1,29 +1,48 @@
-# RecyclerView Android App
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Blacklist CardView Android App</title>
+</head>
+<body>
 
-This Android app demonstrates the usage of RecyclerView to display a list of items.<br/>
-It's developed using Java and the Android Studio IDE.
+<h1>The Blacklist CardView Android App</h1>
 
+<p>This Android app showcases the utilization of RecyclerView to elegantly display a list of characters from the TV show "The Blacklist". Developed using Java and the Android Studio IDE.</p>
 
-## Screenshots
-![](Projectgif.gif)
+<h2>Screenshots</h2>
 
-## Features
-- Displays a list of items using RecyclerView.
-- Each item in the list contains an image, a title, and a description.
-- Clicking on an item shows a dialog with additional details.
+<p>📸 <img src="Projectgif.gif" alt="GIF showcasing the app"></p>
 
-## Usage
-1. Clone the repository:
-   ```bash
- git clone https://github.com/Roychen651/The-Blacklist-CardView-App.git
-   ```
+<h2>Features</h2>
 
-2. Open the project in Android Studio.
+<ul>
+  <li>Utilizes RecyclerView to display a list of characters.</li>
+  <li>Each item in the list includes an image, a title, and a brief description.</li>
+  <li>Clicking on an item reveals additional details in a dialog box.</li>
+</ul>
 
-3. Build and run the app on an Android emulator or a physical device.
+<h2>Usage</h2>
 
-## Contributing
-Feel free to contribute to the project by opening issues or creating pull requests.
+<ol>
+  <li><strong>Clone the Repository:</strong></li>
+  <p>🔗 <code>git clone https://github.com/Roychen651/The-Blacklist-CardView-App.git</code></p>
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+  <li><strong>Open the Project in Android Studio:</strong></li>
+  <p>🛠️ Open Android Studio and navigate to the project directory.</p>
+
+  <li><strong>Build and Run the App:</strong></li>
+  <p>▶️ Run the app on an Android emulator or a physical device to see it in action.</p>
+</ol>
+
+<h2>Contributing</h2>
+
+<p>Contributions to the project are welcome! Feel free to open issues for feedback or create pull requests to suggest improvements.</p>
+
+<h2>License</h2>
+
+<p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
+
+</body>
+</html>
