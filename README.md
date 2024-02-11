@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Blacklist CardView Android App</title>
 </head>
 <body>
 
@@ -11,9 +10,9 @@
 
 <p>This Android app showcases the utilization of RecyclerView to elegantly display a list of characters from the TV show "The Blacklist". Developed using Java and the Android Studio IDE.</p>
 
-<h2>Screenshots</h2>
+<h2>📸 Screenshots 📸</h2>
 
-<p>📸 <img src="Projectgif.gif" alt="GIF showcasing the app"></p>
+<p> <img src="Projectgif.gif" alt="GIF showcasing the app"></p>
 
 <h2>Features</h2>
 
