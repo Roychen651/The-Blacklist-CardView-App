@@ -3,8 +3,9 @@
 This Android app demonstrates the usage of RecyclerView to display a list of items.<br/>
 It's developed using Java and the Android Studio IDE.
 
+
 ## Screenshots
-![Alt Text](https://github.com/Roychen651/The-Blacklist-CardView-App/blob/main/Projectgif.gif)
+![](Projectgif.gif)
 
 ## Features
 - Displays a list of items using RecyclerView.
