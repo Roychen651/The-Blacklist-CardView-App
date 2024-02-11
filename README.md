@@ -8,7 +8,8 @@
 
 <h1>The Blacklist CardView Android App</h1>
 
-<p>This Android app showcases the utilization of RecyclerView to elegantly display a list of characters from the TV show "The Blacklist". Developed using Java and the Android Studio IDE.</p>
+<p>This Android app showcases the utilization of RecyclerView to elegantly display a list of characters from the TV show "The Blacklist".<br/>
+   Developed using Java and the Android Studio IDE.</p>
 
 <h2>📸 Screenshots 📸</h2>
 
